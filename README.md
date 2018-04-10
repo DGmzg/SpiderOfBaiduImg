@@ -1,1 +1,2 @@
-# requestsToBaidu_img
+# SpiderOfBaiduImg
+使用requests爬取百度图片并下载到本地
